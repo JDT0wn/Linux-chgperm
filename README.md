@@ -1,2 +1,2 @@
-# Linux-chgperm
-Walkthrough of A change file permissions lab that I've completed
+# Linux-File Permissions
+In this short project I will be demonstrating some of the commands used in linux to look for and change file permissions
