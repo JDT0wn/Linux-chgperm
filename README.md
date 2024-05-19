@@ -23,7 +23,7 @@
 
 <p align="center">
 : <br/>
-<a href="https://imgur.com/rwBJGvs"><img src="https://i.imgur.com/rwBJGvs.png" title="source: imgur.com" /></a></a></a></a><br />
+<a href="https://imgur.com/rwBJGvs"><img src="https://i.imgur.com/rwBJGvs.png" title="source: imgur.com" /></a><br />
   
 <br />
 :Here I used the (chmod o-w) command to remove the write permission from the "other" category on project_k.txt
