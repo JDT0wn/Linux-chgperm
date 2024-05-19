@@ -36,7 +36,7 @@
 <br />
 <br />
 :Project_x is a hidden file, which is noted by a (.) before the file or folder in linux!! when adding or removing permissions
-make sure to add the (.) before the object or you will get an error. Here is used the same command to remove the write permission from .project_x.txt.
+make sure to add the (.) before the object or you will get an error! Here is used the command(chmod g-w) to remove the write permission from .project_x.txt.
 <br />
 <br />
 <br/>
