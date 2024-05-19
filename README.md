@@ -14,8 +14,8 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b></b>
-- <b></b> 
+- <b>Linux</b>
+- <b>Bash Shell</b> 
 
 
 
@@ -23,10 +23,11 @@
 
 <p align="center">
 : <br/>
-<a href="https://imgur.com/4l6tSdT"><img src="https://i.imgur.com/4l6tSdT.png" title="source: imgur.com" /></a></a></a><br />
+<a href="https://imgur.com/rwBJGvs"><img src="https://i.imgur.com/rwBJGvs.png" title="source: imgur.com" /></a></a></a></a><br />
   
 <br />
-:  <br/>
+:Here I used the (chmod o-w) command to remove the write permission from the "other" category on project_k.txt
+  <br/>
 <a href="https://imgur.com/4l6tSdT"><img src="https://i.imgur.com/4l6tSdT.png" title="source: imgur.com" /></a></a>
 <br />
 <br />
