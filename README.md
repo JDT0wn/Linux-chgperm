@@ -33,6 +33,8 @@
 <br />
 : <br/>
 <a href="https://imgur.com/GKOlynK"><img src="https://i.imgur.com/GKOlynK.png" title="source: imgur.com" /></a></a>
+<br />
+<br />
 <a href="https://imgur.com/C1yBMNY"><img src="https://i.imgur.com/C1yBMNY.png" title="source: imgur.com" /></a>
 
 <br />
