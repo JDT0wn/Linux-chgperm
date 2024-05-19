@@ -5,12 +5,7 @@
 
 <h2>Description</h2>
 
-1. 
-
-2. 
-
-3. 
-
+In this lab I am used BASH shell to change file permissions for research files assigned to me. My 1st step when entering the lab was to use the ls-la command to check the contents of the folder that was assigned to me.  Afterwards I received instructions to remove the write permission from the file
 
 <h2>Languages and Utilities Used</h2>
 
