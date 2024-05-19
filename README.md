@@ -22,7 +22,7 @@
 <h2>Walkthrough:</h2>
 
 <p align="center">
-: <br/>
+:When in a directory, we will use the ls or ls-la command to check the contents and permissions of that folder <br/>
 <a href="https://imgur.com/rwBJGvs"><img src="https://i.imgur.com/rwBJGvs.png" title="source: imgur.com" /></a><br />
   
 <br />
