@@ -5,7 +5,7 @@
 
 <h2>Description</h2>
 
-In this lab I am used BASH shell to change file permissions for research files assigned to me. My 1st step when entering the lab was to use the ls-la command to check the contents of the folder that was assigned to me.  Afterwards I received instructions to remove the write permission from the file
+In this lab I am used BASH shell to change file permissions for research files assigned to me. My 1st step when entering the lab was to use the ls-la command to check the contents of the folder that was assigned to me. Afterwards I received instructions to remove the write permission from the file project_k.txt so that only I and the research team that i was assigned could make changes to the file.  From there the instructions were to make sure that .project_x.txt should have read only permissions for all users.  Upon noticing that the group permissions had write I removed those permissions with the chmod command. 
 
 <h2>Languages and Utilities Used</h2>
 
